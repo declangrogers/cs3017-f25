@@ -31,3 +31,8 @@ ___
 4. this is the second item
 5. this is the third item
    1. This is the first item in a sublist
+
+## Links to other places
+[Google Search](https://google.com)
+
+[Class 3](class3)
