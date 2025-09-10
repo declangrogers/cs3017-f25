@@ -38,3 +38,6 @@ ___
 [Class 3](class3)
 
 [subsection example](#subsection-example)
+
+# Example Image
+![Some RedWoods](trees.jpeg)
